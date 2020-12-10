@@ -63,16 +63,10 @@ p{
 a[href="index.html"]{
     color: red;
 }
+a[href="about.html"]{
+    color: red;
+}
 
-@media (max-width: 400px){
-    #blog{
-        background: lightblue;
-    }
-    #form{
-        background: darkcyan;
-    }
-    #hello-features{
-        background: lightseagreen;
-    }
-    
+a[href="contact.html"]{
+    color: red;
 }
