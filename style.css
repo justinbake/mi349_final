@@ -52,13 +52,7 @@ p{
     line-height: 1.4em;
 }
 
-#blog{
-    border-top: 1px dotted #cccccc;
-}
 
-.blog-post{
-    border-bottom: 1px dotted #cccccc;
-}
 
 #hello-features{
     border-top: 1px solid #cccccc;
